@@ -66,23 +66,23 @@ struct Menu1
 //задание 1
 void ShowAnum()
 {
-    // Enter_Number(a, "Enter number A: ")();
-    // cout << a << endl;
+    Enter_Number(a, "Enter number A: ")();
+    cout << a << endl;
 }
 
 //задание 2
 void ShowBnum()
 {
-    // Enter_Number(b, "Enter number B: ")();
-    // cout << b << endl;
+    Enter_Number(b, "Enter number B: ")();
+    cout << b << endl;
 }
 
 // //задание 3
 void Operation1()
 {
-    // Enter_Number(a, "Enter number A: ")();
-    // Enter_Number(b, "Enter number B: ")();
-    // cout << "A*B = " << a*b << endl;
+    Enter_Number(a, "Enter number A: ")();
+    Enter_Number(b, "Enter number B: ")();
+    cout << "A*B = " << a*b << endl;
 }
 
 // // задание 4
